@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Pizza Margherita",
+    "description": "Pizza clássica italiana com molho de tomate, muçarela e manjericão fresco",
+    "price": 25.0,
+    "tags": ["italiana", "vegetariano"],
+    "allergenic": ["glúten", "laticínios"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "description": "Massa spaghetti com molho cremoso, bacon e parmesão",
+    "price": 32.0,
+    "tags": ["italiana", "massa"],
+    "allergenic": ["glúten", "laticínios", "ovos"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Salada Caprese",
+    "description": "Salada fresca com tomate, muçarela de búfala e manjericão",
+    "price": 18.0,
+    "tags": ["salada", "vegetariano", "leve"],
+    "allergenic": ["laticínios"],
+    "type": "entrada",
+    "fits_people": 1
+  },
+  {
+    "name": "Tiramisu",
+    "description": "Sobremesa italiana com camadas de biscoito, café e creme de mascarpone",
+    "price": 22.0,
+    "tags": ["sobremesa", "italiana"],
+    "allergenic": ["glúten", "laticínios", "ovos"],
+    "type": "sobremesa",
+    "fits_people": 1
+  },
+  {
+    "name": "Risotto de Cogumelos",
+    "description": "Risotto cremoso com cogumelos frescos e parmesão ralado",
+    "price": 28.0,
+    "tags": ["italiana", "vegetariano", "cremoso"],
+    "allergenic": ["laticínios"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Bruschetta Tradicional",
+    "description": "Pão tostado com tomate, alho, azeite e manjericão fresco",
+    "price": 15.0,
+    "tags": ["italiana", "vegetariano", "entrada"],
+    "allergenic": ["glúten"],
+    "type": "entrada",
+    "fits_people": 1
+  },
+  {
+    "name": "Lasanha Bolonhesa",
+    "description": "Lasanha clássica com molho bolonhesa, queijo e massa fresca",
+    "price": 35.0,
+    "tags": ["italiana", "massa"],
+    "allergenic": ["glúten", "laticínios"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Gnocchi ao Pesto",
+    "description": "Nhoque de batata com molho pesto e pinoli",
+    "price": 30.0,
+    "tags": ["italiana", "vegetariano", "massa"],
+    "allergenic": ["glúten", "laticínios", "nozes"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Sorvete de Pistache",
+    "description": "Sorvete artesanal de pistache com pedaços de amêndoas",
+    "price": 18.0,
+    "tags": ["sobremesa", "italiana", "gelado"],
+    "allergenic": ["laticínios", "nozes"],
+    "type": "sobremesa",
+    "fits_people": 1
+  },
+  {
+    "name": "Focaccia de Alecrim",
+    "description": "Pão italiano macio com azeite e alecrim",
+    "price": 12.0,
+    "tags": ["italiana", "vegetariano", "entrada"],
+    "allergenic": ["glúten"],
+    "type": "entrada",
+    "fits_people": 1
+  },
+  {
+    "name": "Polenta Cremosa com Ragu",
+    "description": "Polenta cremosa servida com ragu de carne suína",
+    "price": 27.0,
+    "tags": ["italiana", "cremoso", "prato principal"],
+    "allergenic": ["laticínios"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Panna Cotta de Baunilha",
+    "description": "Sobremesa cremosa de baunilha com calda de frutas vermelhas",
+    "price": 20.0,
+    "tags": ["sobremesa", "italiana", "leve"],
+    "allergenic": ["laticínios"],
+    "type": "sobremesa",
+    "fits_people": 1
+  },
+  {
+    "name": "Espaguete ao Molho de Tomate e Manjericão",
+    "description": "Massa fresca com molho de tomate artesanal e folhas de manjericão",
+    "price": 28.0,
+    "tags": ["italiana", "massa", "vegetariano"],
+    "allergenic": ["glúten"],
+    "type": "prato principal",
+    "fits_people": 2
+  },
+  {
+    "name": "Cappuccino Italiano",
+    "description": "Café expresso com espuma de leite e cacau polvilhado",
+    "price": 12.0,
+    "tags": ["bebida", "italiana", "quente"],
+    "allergenic": ["laticínios"],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Suco de Laranja Natural",
+    "description": "Suco 100% natural espremido na hora",
+    "price": 10.0,
+    "tags": ["bebida", "natural", "leve"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Vinho Tinto da Casa",
+    "description": "Taça de vinho tinto seco, ideal para harmonizar com massas e carnes",
+    "price": 22.0,
+    "tags": ["bebida", "vinho", "alcoólica"],
+    "allergenic": ["sulfitos"],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Água com Gás",
+    "description": "Água mineral gaseificada, servida gelada",
+    "price": 6.0,
+    "tags": ["bebida", "leve", "refrescante"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Água sem Gás",
+    "description": "Água mineral natural, servida gelada",
+    "price": 5.0,
+    "tags": ["bebida", "natural", "leve"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Chá de Camomila",
+    "description": "Chá quente de camomila, perfeito para relaxar",
+    "price": 8.0,
+    "tags": ["bebida", "chá", "quente"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Chá Gelado de Pêssego",
+    "description": "Chá preto gelado com sabor natural de pêssego",
+    "price": 9.0,
+    "tags": ["bebida", "chá", "gelado", "refrescante"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Suco de Uva Integral",
+    "description": "Suco 100% uva integral, sem adição de açúcar",
+    "price": 12.0,
+    "tags": ["bebida", "natural", "refrescante"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Limonada Suíça",
+    "description": "Limonada cremosa preparada com limão e leite condensado",
+    "price": 14.0,
+    "tags": ["bebida", "refrescante", "cremosa"],
+    "allergenic": ["laticínios"],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Cerveja Artesanal",
+    "description": "Cerveja artesanal tipo IPA, servida gelada",
+    "price": 18.0,
+    "tags": ["bebida", "cerveja", "alcoólica"],
+    "allergenic": ["glúten"],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Espresso Curto",
+    "description": "Café espresso curto e encorpado",
+    "price": 7.0,
+    "tags": ["bebida", "italiana", "quente"],
+    "allergenic": [],
+    "type": "bebida",
+    "fits_people": 1
+  },
+  {
+    "name": "Mocaccino",
+    "description": "Café expresso com leite vaporizado e calda de chocolate",
+    "price": 14.0,
+    "tags": ["bebida", "café", "quente", "doce"],
+    "allergenic": ["laticínios"],
+    "type": "bebida",
+    "fits_people": 1
+  }
+]
